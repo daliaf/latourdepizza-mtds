@@ -1,0 +1,13 @@
+.menu{
+border:1px solid black;
+color:blue;
+}
+#menu ul li{
+float:left;
+
+}
+header{
+
+background-color:silver;
+
+}

@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<link href="header/header.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<div id="menu">
+<div class="menu">
+<ul>
+<li><a href="index.php">acceuil</a></li>
+<li><a href="liste_des_pizzas.php">pizzas</a></li>
+<li><a href="commande.php">commande</a></li>
+</ul>
+</div></div>
+
+</body>
+</html>
